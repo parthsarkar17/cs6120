@@ -42,7 +42,7 @@ lesson = 6
 
 [[classes]]
 title = "SSA"
-leader = "Max Fan (myf5), Neel, Dev Patel (dp673)"
+leader = "Neel, Dev Patel (dp673)"
 readings = ["ssa-construct"]
 
 
@@ -53,7 +53,7 @@ lesson = 7
 
 [[classes]]
 title = "Automatic Verification"
-leader = "Annabel Baniak, Katherine Wu, Stephanie"
+leader = "Annabel Baniak, Katherine Wu, Stephanie, Max"
 readings = ["alive"]
 
 
