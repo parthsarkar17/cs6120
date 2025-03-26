@@ -1,7 +1,7 @@
 ---
 name: Project Proposal
-about: Fill this out for every course project.
-title: 'Project [NUMBER] Proposal: [TITLE]'
+about: Fill this out to propose your course project.
+title: 'Project Proposal: [TITLE]'
 labels: 'proposal'
 ---
 
