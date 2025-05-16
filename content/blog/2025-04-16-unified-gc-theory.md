@@ -6,6 +6,7 @@ bio = """
   To what extent is its conclusion, specifically that garbage collection algorithms lies on a spectrum between reference counting and tracing, 
   practical, useful, or even true?
 """
+latex = true
 [[extra.authors]]
 name = "Ethan Gabizon"
 [[extra.authors]]
@@ -107,4 +108,4 @@ is close to what a programmer would do to manually manage memory. It seems buggy
 to free individual nodes during processing, so they might just free the whole
 section when they're sure they've finished their computation. This goes back to
 a meta-discussion-point about how there's still GC research to be done to fill the gap
-between automatic, GC-managed memory and manual memory management).
+between automatic, GC-managed memory and manual memory management.)
