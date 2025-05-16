@@ -6,6 +6,7 @@ bio = """
   To what extent is its conclusion, specifically that garbage collection algorithms lies on a spectrum between reference counting and tracing, 
   practical, useful, or even true?
 """
+latex = true
 [[extra.authors]]
 name = "Ethan Gabizon"
 [[extra.authors]]
